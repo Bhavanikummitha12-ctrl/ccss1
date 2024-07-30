@@ -1,0 +1,38 @@
+.content{
+    font-family:sans-serif;
+}
+#a {
+    border: 2px solid blue;
+    border-style: dashed;
+    margin:5%;
+    margin-top: 10%;
+    height: 500px;
+    padding:2%;
+    background-color: aliceblue;
+    border-radius:5px;
+}
+#b{
+    border: 2px solid pink;
+    margin: 5%;
+    height: 400px;
+    padding:2%;
+    background-color:brown;
+    border-radius: 5px;
+}
+#c{
+    border: 3px solid black;
+    border-style: dashed;
+    margin: 5%;
+    padding:2%;
+    background-color:lightblue;
+    border-radius: 5px;
+}
+#d{
+    border: 2px solid red;
+    border-style: solid;
+    margin: 5%;
+    height: 150px;
+    padding:4%;
+    background-color: lightseagreen;
+    border-radius: 5px;
+}
